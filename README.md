@@ -2,7 +2,6 @@
 <h1 align="center">Hi I'm Mohammed Umer</h1>
 <h3 align="center">A passionate full-stack MERN developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://gurzu.com/img/gurzu/mern-stack-01.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdumer7&label=Profile%20views&color=0e75b6&style=flat" alt="mohdumer7" /> </p>
 
